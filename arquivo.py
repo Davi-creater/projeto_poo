@@ -5,5 +5,6 @@ from sqlalchemy.orm import relationship, sessionmaker, declarative_base
 engine = create_engine('sqlite:///banco_dados.db', echo=True)
 Base = declarative_base()
 
+asdfg
 
 
